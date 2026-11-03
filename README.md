@@ -35,5 +35,5 @@
 ---
 
 ## 📫 Contact
-* **GitHub**: [https://github.com](https://github.com)
-* **Email**: 이메일 주소를 입력하세요.
+* **GitHub**: [https://ghwnsehd.github.com](https://ghwnsehd.github.com)
+* **Email**: ghwnsehd@gmail.com.
