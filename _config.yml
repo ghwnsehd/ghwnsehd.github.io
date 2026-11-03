@@ -1,0 +1,28 @@
+title: ghwnsehd 블로그
+author: ghwnsehd
+description: 개발 과정에서 배운 내용을 기록하는 개인 블로그입니다.
+url: https://ghwnsehd.github.io
+show_excerpts: true
+
+sass:
+  sass_dir: _sass
+
+plainwhite:
+  name: ghwnsehd
+  tagline: 개발 과정과 배운 내용을 기록합니다.
+  date_format: "%Y년 %-m월 %-d일"
+  sitemap: true
+  search: true
+  dark_mode: true
+  html_lang: "ko"
+  condensed_mobile:
+    - page
+    - post
+  social_links:
+    github: ghwnsehd
+
+remote_theme: samarsault/plainwhite-jekyll
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
